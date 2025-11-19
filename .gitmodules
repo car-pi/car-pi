@@ -7,3 +7,6 @@
 [submodule "modules/ui-module"]
 	path = modules/ui-module
 	url = git@github.com:car-pi/ui-module.git
+[submodule "modules/music-module"]
+	path = modules/music-module
+	url = git@github.com:car-pi/music-module.git
