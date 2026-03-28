@@ -10,3 +10,15 @@
 [submodule "modules/music-module"]
 	path = modules/music-module
 	url = git@github.com:car-pi/music-module.git
+[submodule "modules/sombrero-module"]
+	path = modules/sombrero-module
+	url = git@github.com:car-pi/sombrero-module.git
+[submodule "modules/foxglove-module"]
+	path = modules/foxglove-module
+	url = git@github.com:car-pi/foxglove-module
+[submodule "modules/networking-module"]
+	path = modules/networking-module
+	url = git@github.com:car-pi/networking-module.git
+[submodule "modules/android-module"]
+	path = modules/android-module
+	url = git@github.com:car-pi/android-module.git
