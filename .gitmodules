@@ -19,3 +19,6 @@
 [submodule "modules/android-module"]
 	path = modules/android-module
 	url = git@github.com:car-pi/android-module.git
+[submodule "modules/gnss-module"]
+	path = modules/gnss-module
+	url = git@github.com:Jumner/gnss-module.git
