@@ -22,3 +22,6 @@
 [submodule "modules/gnss-module"]
 	path = modules/gnss-module
 	url = git@github.com:Jumner/gnss-module.git
+[submodule "modules/camera-module"]
+	path = modules/camera-module
+	url = git@github.com:car-pi/camera-module.git
