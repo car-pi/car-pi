@@ -22,3 +22,6 @@
 [submodule "modules/camera-module"]
 	path = modules/camera-module
 	url = git@github.com:car-pi/camera-module.git
+[submodule "modules/zenoh-module"]
+	path = modules/zenoh-module
+	url = git@github.com:car-pi/zenoh-module.git
