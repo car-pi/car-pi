@@ -1,6 +1,3 @@
-[submodule "modules/audio-module"]
-	path = modules/audio-module
-	url = git@github.com:car-pi/audio-module.git
 [submodule "modules/ui-module"]
 	path = modules/ui-module
 	url = git@github.com:car-pi/ui-module.git
